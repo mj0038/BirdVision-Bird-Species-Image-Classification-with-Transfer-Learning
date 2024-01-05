@@ -1,1 +1,1 @@
-# BirdVision-Bird-Species-Image-Classification-with-Transfer-Learning
+# BirdVision: Species Image Classification with Transfer Learning
